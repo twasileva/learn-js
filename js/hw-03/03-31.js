@@ -68,16 +68,16 @@
 // 2020
 //   |
 //   Политика конфиденциальности
-
+// 
 // Пиши код ниже этой строки
-function add(...args) {
-  // Пиши код выше этой строки
-  let total = 0
+// function add(...args) {
+//   // Пиши код выше этой строки
+//   let total = 0
 
-  for (const arg of args) {
-    total += arg
-  }
-  return total
-}
+//   for (const arg of args) {
+//     total += arg
+//   }
+//   return total
+// }
 
-console.log(add(15, 27));
+// console.log(add(15, 27));
